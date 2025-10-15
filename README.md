@@ -1,8 +1,7 @@
-# 👨‍💻 Álvaro Murillo Puchalt
-> 🎓 Alumno de DAM · 💻 Apasionado por la informática y los coches · 📍 Valencia · 19 años
-
 ![banner](./encabezado.png)
 
+# 👨‍💻 Álvaro Murillo Puchalt
+> 🎓 Alumno de DAM · 💻 Apasionado por la informática y los coches · 📍 Valencia · 19 años
 ---
 
 ## 🧠 Quién soy
